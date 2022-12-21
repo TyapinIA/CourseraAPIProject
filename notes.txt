@@ -1,0 +1,6 @@
+Superuser:
+adminLemon / adminLemon!
+
+Brian / BrianLemon! - Manager
+Clark / ClarkLemon! - Delivery crew
+Diana / DianaLemon! - Customer
